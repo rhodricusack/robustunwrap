@@ -5,8 +5,8 @@
  Cusack, R. & Papadakis, N. (2002) 
     "New robust 3-D phase unwrapping algorithms: application to magnetic field mapping and undistorting echoplanar images."
     Neuroimage. 2002 Jul;16(3 Pt 1):754-64.
- Distributed under GNU public license http://www.gnu.org/copyleft/gpl.html
- Comments to rhodri.cusack@mrc-cbu.cam.ac.uk
+ Distributed under MIT License
+ Comments to cusackrh@tcd.ie
  Version 3.00 Oct 2006 adapted for matlab
  */
 
